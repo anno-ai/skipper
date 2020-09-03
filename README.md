@@ -23,6 +23,7 @@ req.file('avatar').upload(function (err, uploadedFiles){
 ============================================
 
 
+
 ## Installation
 
 Skipper is installed in [Sails](http://sailsjs.com/) automatically (see https://github.com/sails101/file-uploads for a sample Sails app that handles file uploads).
