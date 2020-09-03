@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/balderdashy/skipper.git"
+    "url": "git://github.com/anno-ai/skipper.git"
   },
   "engines": {
     "node": ">=0.10.0"
